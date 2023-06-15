@@ -1,5 +1,4 @@
 ## About Me
-Hi There, I am an experienced Flutter developer with 3 years of experience. I know mobile app guidelines and realize that UX/UI quality is one of the most important things in mobile apps. That's why I am very attentive to design layouts and always deliver pixel-perfect layouts tested on various devices.
 
 We leading software development company specializing in Flutter technology and UI/UX design. With over three years of experience in these fields, we have established ourselves as a trusted partner for businesses seeking cutting-edge mobile applications and exceptional user experiences.
 
@@ -10,6 +9,7 @@ In addition to our proficiency in Flutter technology, we pride ourselves on our 
 Over the years, we have had the privilege of working with diverse clients from various industries, ranging from startups to established enterprises. Our collaborative approach involves working closely with our clients to understand their goals, target audience, and unique brand identity. By incorporating these insights into our design and development process, we create tailor-made solutions that align with our clients' vision while exceeding their expectations.
 
 Contact us today to discuss your project requirements and take the first step towards transforming your vision into reality. Join our list of satisfied clients who have experienced the power of Flutter technology and the artistry of our UI/UX design expertise.
+
 ## Programming Languages
 
 <p>
