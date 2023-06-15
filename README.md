@@ -28,7 +28,14 @@ Hi There, I am an experienced Flutter developer with 3 years of experience. I kn
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
 </p>
 
-## 🌐 Socials:
+## Operating Systems
+<p>
+	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
+</p>
+
+## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/madviseinfotech2021/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/madviseinfotech/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/company/madvise-infotech2021) 
 
 
