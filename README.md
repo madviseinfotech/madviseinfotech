@@ -1,20 +1,11 @@
-<!-- <div align="center">
-  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
- <h3> About me</hr>
-</div>
-
-<br><br><h2 align="center">Contact:</h2><br>
-<div align="center">
-  
-💌 Contact ➖ info@madviseinfotech.com (for a general-purpose contact) <br>
-📩 Development ➖ madviseinfotech@gmail.com (for a specific development-related request)
-
-<p align="center"> -->
-
-  
-  # 💫 About Me:
+# 💫 About Me:
 Hi There, I am an experienced Flutter developer with 3 years of experience. I know mobile app guidelines and realize that UX/UI quality is one of the most important things in mobile apps. That's why I am very attentive to design layouts and always deliver pixel-perfect layouts tested on various devices.
 
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=madviseinfotech&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madviseinfotech&layout=compact&theme=github_dark"/>|
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/madviseinfotech2021/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/madviseinfotech/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/company/madvise-infotech2021) 
