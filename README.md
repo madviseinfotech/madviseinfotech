@@ -38,16 +38,11 @@ Hi There, I am an experienced Flutter developer with 3 years of experience. I kn
 ## Connect with Me
 <p>
   <a href="https://in.linkedin.com/company/madvise-infotech2021"><img alt="Linkedin" title="Madvise Infotech Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/madviseinfotech"><img alt="Github" title="Madvise Infotech Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.facebook.com/madviseinfotech2021/"><img alt="Facebook" title="Madvise Infotech FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/madviseinfotech/"><img alt="Instagram" title="Madvise Infotech Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:maviseinfotech@gmail.com"><img alt="Gmail" title="Madvise Infotech Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+  <a href="https://github.com/madviseinfotech"><img alt="Github" title="Madvise Infotech Github" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/madviseinfotech2021/"><img alt="Facebook" title="Madvise Infotech FB" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/madviseinfotech/"><img alt="Instagram" title="Madvise Infotech Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  <a href="mailto:maviseinfotech@gmail.com"><img alt="Gmail" title="Madvise Infotech Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 </p>
-
-## Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/madviseinfotech2021/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/madviseinfotech/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/company/madvise-infotech2021) 
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=madviseinfotech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
