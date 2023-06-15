@@ -39,7 +39,7 @@ Hi There, I am an experienced Flutter developer with 3 years of experience. I kn
 	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 	<a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?for-the-badge&logo=xcode&logoColor=white"></a>
 	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-	<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/AndroidStudio&nbsp;IDEA-000000.svg?logo=androidstudio&logoColor=white"></a>
+	<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android&nbsp;Studio-000000.svg?logo=androidstudio&logoColor=white"></a>
 </p>
 
 ## Connect with Me
