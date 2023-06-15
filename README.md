@@ -1,12 +1,6 @@
 ## About Me
 Hi There, I am an experienced Flutter developer with 3 years of experience. I know mobile app guidelines and realize that UX/UI quality is one of the most important things in mobile apps. That's why I am very attentive to design layouts and always deliver pixel-perfect layouts tested on various devices.
 
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=madviseinfotech&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=madviseinfotech&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madviseinfotech&layout=compact&theme=github_dark"/>|
-
 ## Programming Languages
 
 <p>
@@ -37,22 +31,22 @@ Hi There, I am an experienced Flutter developer with 3 years of experience. I kn
 
 ## Connect with Me
 <p>
-  <a href="https://in.linkedin.com/company/madvise-infotech2021"><img alt="Linkedin" title="Madvise Infotech Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://in.linkedin.com/company/madvise-infotech2021"><img alt="Linkedin" title="Madvise Infotech Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/madviseinfotech"><img alt="Github" title="Madvise Infotech Github" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/madviseinfotech2021/"><img alt="Facebook" title="Madvise Infotech FB" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/madviseinfotech/"><img alt="Instagram" title="Madvise Infotech Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
   <a href="mailto:maviseinfotech@gmail.com"><img alt="Gmail" title="Madvise Infotech Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madviseinfotech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=madviseinfotech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madviseinfotech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Github Stats
 
-### ✍️ Random Dev Quote
+<img src="https://github-readme-stats.vercel.app/api?username=madviseinfotech&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=madviseinfotech&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madviseinfotech&layout=compact&theme=github_dark"/>|
+
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=madviseinfotech&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
