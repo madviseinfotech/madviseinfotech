@@ -1,6 +1,15 @@
 ## About Me
 Hi There, I am an experienced Flutter developer with 3 years of experience. I know mobile app guidelines and realize that UX/UI quality is one of the most important things in mobile apps. That's why I am very attentive to design layouts and always deliver pixel-perfect layouts tested on various devices.
 
+We leading software development company specializing in Flutter technology and UI/UX design. With over three years of experience in these fields, we have established ourselves as a trusted partner for businesses seeking cutting-edge mobile applications and exceptional user experiences.
+
+we believe in the power of Flutter, Google's open-source framework for developing cross-platform applications. Our team of skilled Flutter developers has honed their expertise over the years, enabling us to deliver robust, efficient, and visually stunning mobile applications for both iOS and Android platforms. Flutter's versatility and performance allow us to create seamless and responsive apps that cater to the unique requirements of our clients.
+
+In addition to our proficiency in Flutter technology, we pride ourselves on our exceptional UI/UX design capabilities. We understand that a visually appealing and intuitive user interface is vital for capturing and retaining users' attention. Our talented UI/UX designers combine their artistic flair with a deep understanding of user psychology to create captivating interfaces that ensure a delightful user experience. We carefully craft every pixel and interaction to deliver applications that are not only visually stunning but also highly functional and user-friendly.
+
+Over the years, we have had the privilege of working with diverse clients from various industries, ranging from startups to established enterprises. Our collaborative approach involves working closely with our clients to understand their goals, target audience, and unique brand identity. By incorporating these insights into our design and development process, we create tailor-made solutions that align with our clients' vision while exceeding their expectations.
+
+Contact us today to discuss your project requirements and take the first step towards transforming your vision into reality. Join our list of satisfied clients who have experienced the power of Flutter technology and the artistry of our UI/UX design expertise.
 ## Programming Languages
 
 <p>
