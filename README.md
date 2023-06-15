@@ -17,7 +17,7 @@ Hi There, I am an experienced Flutter developer with 3 years of experience. I kn
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?logoColor=white"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?logoColor=white"></a>
